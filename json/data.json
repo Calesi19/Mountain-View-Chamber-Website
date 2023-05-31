@@ -13,49 +13,49 @@
         "address": "456 Elm St, Mountain View, UT 84062",
         "phone": "(555) 234-5678",
         "website": "http://www.rockymountainoutfitters.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/rocky-mountain-outfitters.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/rocky-mountain-outfitters.png?raw=true"
       },
       {
         "name": "Sunny Days Daycare",
         "address": "789 Oak St, Mountain View, UT 84062",
         "phone": "(555) 345-6789",
         "website": "http://www.sunnydaysdaycare.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/daycare.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/daycare.png?raw=true"
       },
       {
         "name": "Mountain View Insurance",
         "address": "1010 Maple St, Mountain View, UT 84062",
         "phone": "(555) 456-7890",
         "website": "http://www.mountainviewinsurance.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/insurance.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/insurance.png?raw=true"
       },
       {
         "name": "Peak Performance Fitness",
         "address": "1111 Pine St, Mountain View, UT 84062",
         "phone": "(555) 567-8901",
         "website": "http://www.peakperformancefitness.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/gym.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/gym.png?raw=true"
       },
       {
         "name": "The Rustic Lodge",
         "address": "1212 Birch St, Mountain View, UT 84062",
         "phone": "(555) 678-9012",
         "website": "http://www.therusticlodge.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/lodge.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/lodge.png?raw=true"
       },
       {
         "name": "Alpine Adventures",
         "address": "1313 Cedar St, Mountain View, UT 84062",
         "phone": "(555) 789-0123",
         "website": "http://www.alpineadventures.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/rafting.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/rafting.png?raw=true"
       },
       {
         "name": "Mountain View Hardware",
         "address": "1414 Spruce St, Mountain View, UT 84062",
         "phone": "(555) 890-1234",
         "website": "http://www.mountainviewhardware.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/hardware.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/hardware.png?raw=true"
       },
       {
         "name": "Desert Oasis Spa",
@@ -69,28 +69,28 @@
         "address": "153 Main St, Mountain View, UT 84062",
         "phone": "(555) 945-4855",
         "website": "http://www.lockerhub.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/logo_black.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/logo_black.png?raw=true"
       },
       {
         "name": "The Diamond Shack",
         "address": "1434 Jupitor St, Mountain View, UT 84062",
         "phone": "(555) 785-4523",
         "website": "http://www.diamondshack.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/f590fc8677092cd952c0bfdc3aa75bc86a3e3f32/chamber/images/diamond.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/diamond.png?raw=true"
       },
       {
         "name": "TreeFort",
         "address": "102 Main St, Mountain View, UT 84062",
         "phone": "(555) 994-3423",
         "website": "http://www.treefort.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/treefort.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/treefort.png?raw=true"
       },
       {
         "name": "Inklusion Graphics",
         "address": "170 Main St, Mountain View, UT 84062",
         "phone": "(555) 494-3426",
         "website": "http://www.inklusiongraphics.com/",
-        "imageurl": "https://github.com/Calesi19/wdd230/blob/main/chamber/images/companies/graphic.png?raw=true"
+        "imageurl": "https://github.com/Calesi19/MountainViewChamber/blob/main/images/companies/graphic.png?raw=true"
       }
     ]
   }
